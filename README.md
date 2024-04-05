@@ -1,5 +1,5 @@
 # futurense.internship_capstone.project
-We are working on the Intern Project dat aanalysis of Fatalities of Isreal and Palestine, we work ont he code on various data anlysis field along with the presentation.
+We are working on the Intern Project data analysis of Fatalities of Isreal and Palestine, we work on the code on various data anlysis field along with the presentation.
 
 # Importance Matrix for Data Analysis of Fatalities in Israel and Palestine
 ## Overview:
