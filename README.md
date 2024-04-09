@@ -43,4 +43,4 @@ This repository contains data and scripts for conducting a comprehensive analysi
 
 ## Contributing:
 
-Contributions have made by our team members in each kinds of categories in both the presentation and coding part which hels to improve the analysis scripts, enhance visualization techniques, or expand the dataset.
+Contributions have made by our team members in each kinds of categories in both the presentation and coding part which helps in improving the analysis scripts, enhance visualization techniques, or expand the dataset.
